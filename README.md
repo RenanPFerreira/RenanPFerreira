@@ -1,7 +1,7 @@
 ## 🇧🇷 Olá, tudo bem contigo? 👋<br />
 Pode me chamar de Renan!<br />
 Trabalho com QA desde 2018, neste github você encontrará os projetos de automação que eu venho desenvolvido.<br />
-Acredito que nosso futuro como TI é obter cada vez mais conhecimento nessa ferramenta universal e tornar nossos testes muito mais práticos e acertivos!<br />
+Acredito que nosso futuro como TI é obter cada vez mais conhecimento nessa ferramenta universal e tornar nossos testes muito mais práticos e assertivos!<br />
 <br />📫 Me mande um e-mail em ferreirarenan@live.com
 <br />🔗 Ou visite meu Linkedin em: www.linkedin.com/in/renan-ferreira96/<br />
 <br />
